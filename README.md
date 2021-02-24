@@ -1,15 +1,15 @@
-# My Logical Edit Files
+# My Logical Editor Files for Cubase
 
 ## Overview
 
-Here is the operation that I often do, with "Logical Edit" in Cubase.
+Here is a Logical Editor preset files I created.
 
 ### Note
 
 I'll update it from time to time to improve my own efficiency.
 
 
-## How to install?
+## Where do I copy the files to
 
 A Folder "R-Koubou" put to `<Cubase Application Folder>/Presets/Logical Edit`
 
@@ -17,13 +17,13 @@ A Folder "R-Koubou" put to `<Cubase Application Folder>/Presets/Logical Edit`
 
 ## 概要
 
-私がよく行うオペレーションで、Logical Editにしたものを公開しています。
+作成した Logical Editor プリセットファイルです
 
 
 ### 備考
 
 私自身の効率を上げるために随時更新します。
 
-## インストール方法
+## コピー先
 
 "R-Koubou" フォルダを `<Cubase Application Folder>/Presets/Logical Edit` に置きます。
